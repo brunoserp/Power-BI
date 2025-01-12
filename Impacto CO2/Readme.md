@@ -29,7 +29,6 @@ A análise é fundamental para identificar produtos ou categorias que possuem ma
 No desenvolvimento deste dashboard, foram aplicadas diversas fórmulas DAX para transformar os dados brutos em informações úteis e estratégicas. Abaixo estão alguns exemplos das análises realizadas:
 </p>
 
-<h3>Nível Avançado</h3>
 <ul>
     <li><strong>Qual é a cidade com maior emissão de CO2 (co2 emission)?</strong><br>
         Agrupamos os dados pela coluna <code>city</code> e calculamos a soma de <code>co2 emission</code>, identificando a cidade com o maior valor.
@@ -39,11 +38,6 @@ No desenvolvimento deste dashboard, foram aplicadas diversas fórmulas DAX para 
     </li>
     <li><strong>Qual é o produto (product) com o maior volume de vendas (quantity) em 2023?</strong><br>
         Filtramos os dados para o ano de 2023 usando a coluna <code>date</code>, somamos os valores de <code>quantity</code> por <code>product</code> e identificamos o maior valor.
-    </li>
-</ul>
-
-<h3>Nível Expert</h3>
-<ul>
     <li><strong>Crie uma medida para calcular a porcentagem de vendas de cada cidade (city) em relação ao total de vendas global.</strong><br>
         Utilizamos a coluna <code>sales</code> para calcular a participação de cada cidade no total global.
     </li>
