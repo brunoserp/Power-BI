@@ -1,6 +1,4 @@
-#Projetos Power BI
-<body>
-    <h1>Projetos de Dashboards no Power BI</h1>
+<h1>Projetos de Dashboards no Power BI</h1>
 
     <h2>1. Dashboard: Redução de Emissões de CO2</h2>
     <p><strong>Descrição:</strong> Dashboard criado para a simulação de um plano corporativo da empresa fictícia <em>OurTech</em>, focado na redução de emissões de CO2 associadas à produção e vendas.</p>
