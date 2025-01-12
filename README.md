@@ -1,4 +1,27 @@
-<h1>Projetos de Dashboards no Power BI</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetos Power BI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: black;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        code {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #f4f4f4;
+            padding: 2px 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Projetos de Dashboards no Power BI</h1>
 
     <h2>1. Dashboard: Redução de Emissões de CO2</h2>
     <p><strong>Descrição:</strong> Dashboard criado para a simulação de um plano corporativo da empresa fictícia <em>OurTech</em>, focado na redução de emissões de CO2 associadas à produção e vendas.</p>
