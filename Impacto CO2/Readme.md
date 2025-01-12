@@ -26,7 +26,8 @@ A análise é fundamental para identificar produtos ou categorias que possuem ma
 
 <h2>Fórmulas DAX Utilizadas no Dashboard</h2>
 <p>
-No desenvolvimento deste dashboard, foram aplicadas diversas fórmulas DAX para transformar os dados brutos em informações úteis e estratégicas. Abaixo estão alguns exemplos das análises realizadas:
+No desenvolvimento deste dashboard, foram utilizadas as seguintes funções DAX: <strong>SUM</strong>, <strong>SUMX</strong>, <strong>CALCULATE</strong>, <strong>FILTER</strong>, <strong>ALL</strong>, <strong>EARLIER</strong>, <strong>DIVIDE</strong>, <strong>SELECTEDVALUE</strong> e <strong>PREVIOUSMONTH</strong>.    
+Abaixo estão alguns exemplos das análises realizadas:
 </p>
 
 <ul>
