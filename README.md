@@ -1,6 +1,6 @@
 # Projetos de Dashboards no Power BI
 
-## 1. Dashboard: Redução de Emissões de CO2
+## 1. [Redução de Emissões de CO2](https://github.com/brunoserp/Power-BI/tree/main/Impacto%20CO2)
 
 **Descrição:**  
 Dashboard criado para a simulação de um plano corporativo da empresa fictícia *OurTech*, focado na redução de emissões de CO2 associadas à produção e vendas.
@@ -15,7 +15,7 @@ Dashboard criado para a simulação de um plano corporativo da empresa fictícia
 
 ---
 
-## 2. Dashboard: Vendas de Jogos de Videogame
+## 2. Vendas de Jogos de Videogame
 
 **Descrição:**  
 Dashboard para análise detalhada das vendas por categoria/gênero, data de lançamento, consoles e jogos.
