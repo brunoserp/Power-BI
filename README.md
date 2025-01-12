@@ -15,7 +15,7 @@ Dashboard criado para a simulação de um plano corporativo da empresa fictícia
 
 ---
 
-## 2. Vendas de Jogos de Videogame
+## 2. [Vendas de Jogos de Videogame](https://github.com/brunoserp/Power-BI/tree/main/Jogos%20Videogame)
 
 **Descrição:**  
 Dashboard para análise detalhada das vendas por categoria/gênero, data de lançamento, consoles e jogos.
