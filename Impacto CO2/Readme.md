@@ -26,7 +26,7 @@ A análise é fundamental para identificar produtos ou categorias que possuem ma
 
 <h2>Fórmulas DAX Utilizadas no Dashboard</h2>
 <p>
-No desenvolvimento deste dashboard, foram utilizadas as seguintes funções DAX: <strong>SUM</strong>, <strong>SUMX</strong>, <strong>CALCULATE</strong>, <strong>FILTER</strong>, <strong>ALL</strong>, <strong>EARLIER</strong>, <strong>DIVIDE</strong>, <strong>TOPN</strong>, <strong>SUMMARIZE</strong>, <strong>MAXX</strong>, <strong>SELECTEDVALUE</strong> e <strong>DATEADD</strong>.    
+No desenvolvimento deste dashboard, foram utilizadas as seguintes funções DAX: <code>SUM</code>, <code>SUMX</code>, <code>CALCULATE</code>, <code>FILTER</code>, <code>ALL</code>, <code>EARLIER</code>, <code>DIVIDE</code>, <code>TOPN</code>, <code>SUMMARIZE</code>, <code>MAXX</code>, <code>SELECTEDVALUE</code> e <code>DATEADD</code>.
 Abaixo estão alguns exemplos das análises realizadas:
 </p>
 
